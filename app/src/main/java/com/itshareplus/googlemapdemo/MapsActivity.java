@@ -5,7 +5,7 @@
 
 //ANdroid Studio meldet ein Problem wegen Google Services. Leider konnte keine Lösung gefunden werden, um das Problem zu beseitigen.
 //Daher kann die App deshalb lediglich Dialogs anzeigen, aber keine Routen. Als Lösung gefunden wurde nur die Möglichkeit, über eine Firebase-Registrierung
-//eine Google Service Server Client ID zu bekommen, was allerdings auch gescheitert ist. 
+//eine Google Service Server Client ID zu bekommen, was allerdings auch gescheitert ist.
 
 package com.itshareplus.googlemapdemo;
 
